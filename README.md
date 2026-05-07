@@ -1,2 +1,2 @@
-# goit-js-hw-06
-HW 6
+# goit-js-hw-07
+HW 7
